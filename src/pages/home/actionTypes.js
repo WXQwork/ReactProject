@@ -1,0 +1,1 @@
+export const GET_HOMENAME_DATA = 'my/get_homename_data'
